@@ -7,54 +7,54 @@ ocw_type: CourseSection
 title: Related Resources
 uid: 5a025829-e4a5-8c4b-1875-452c0832f240
 ---
-{{% resource_link "d0a00585-f24b-4742-98c9-7be152b28598" "Young Inventors International" %}}
+[Young Inventors International](http://www.younginventors.org/)
 
-{{% resource_link "a0461669-d1e8-4737-a8d1-876a3c0d5c22" "Wellcome Trust" %}}
+[Wellcome Trust](http://www.wellcome.ac.uk/)
 
-{{% resource_link "b3ca9c6d-fbd0-40b5-b547-d9cf040cd783" "Grantsmanship Center" %}}
+[Grantsmanship Center](http://www.tgci.com/)
 
-{{% resource_link "244d6313-7d69-4c2c-a5a6-01b390c13dd9" "Deshpande Center" %}}
+[Deshpande Center](http://web.mit.edu/deshpandecenter/)
 
-{{% resource_link "a98fb492-f99a-42c3-be0a-157b0eb625ba" "Hackaday" %}}
+[Hackaday](http://www.hackaday.com/)
 
-{{% resource_link "033bd30a-5788-4e07-90ba-777fda33345d" "Make Magazine" %}}
+[Make Magazine](http://www.makezine.com/)
 
-{{% resource_link "f27c61fa-f65e-4594-ba4c-64199c27bb92" "Medgadget" %}}
+[Medgadget](https://web.archive.org/web/20240214044207/https://www.medgadget.com/)
 
-{{% resource_link "b5c3cbbf-b79e-4c76-82be-178ddca26c50" "The New Atlantis" %}}
+[The New Atlantis](http://www.thenewatlantis.com/)
 
-{{% resource_link "97e6f179-6201-4125-95d7-f6096601da97" "Eldis Development" %}}
+[Eldis Development](http://www.eldis.org/)
 
-{{% resource_link "b4e914f2-6505-4c19-917e-65787556a077" "Technology, Health & Development Blog" %}}
+[Technology, Health & Development Blog](http://thdblog.wordpress.com/)
 
-{{% resource_link "a5b73e77-0099-443a-84e1-20bee6a908e3" "Little Devices That Could" %}}
+[Little Devices That Could](http://littledevicesthatcould.blogspot.com/)
 
-{{% resource_link "6668c357-fc59-443d-a4c4-65fd7fa13d74" "NextBillion.net" %}}
+[NextBillion.net](http://www.nextbillion.net/)
 
-{{% resource_link "0d855339-3d21-48a6-b229-3c9ff56ad01b" "AIDG" %}}
+[AIDG](http://aidginc.com/)
 
-{{% resource_link "ecc8a896-39ef-4715-bfb2-0b9a96275997" "Appropedia" %}}
+[Appropedia](http://www.appropedia.org/Welcome_to_Appropedia)
 
-{{% resource_link "2a5886e6-551f-48c2-a2e8-6dfba9eb9f05" "World Bank PSD Blog" %}}
+[World Bank PSD Blog](https://blogs.worldbank.org/psd)
 
-{{% resource_link "600a3f6d-3c3e-4315-9865-ae64d33a783c" "Social Innovation Accelerator" %}}
+[Social Innovation Accelerator](https://www.socialinnovationforum.org/social-innovator-accelerator)
 
-{{% resource_link "71f86348-28a3-45ce-860d-f559b2fa7f87" "World Bank Development Gateway" %}}
+[World Bank Development Gateway](http://www.developmentgateway.org/)
 
-{{% resource_link "d1b36854-2ffe-4144-9a20-ae9fd29049db" "Changemakers" %}}
+[Changemakers](https://www.changemakers.com/)
 
 ## Literature
 
 Hilts, Philip. *Rx for Survival: Why We Must Rise to the Global Health Challenge*. New York, NY: Penguin Press, 2005. ISBN: 9781594200700.
 
-E-book: {{% resource_link "f45809d7-9b97-4675-8eed-cc5b9fa83e18" "Surgery and Healing in the Developing World (PDF - 4.7MB)" %}}
+E-book: [Surgery and Healing in the Developing World (PDF - 4.7MB)](http://www.dartmouth-hitchcock.org/dhmc-internet-upload/file_collection/geelhoed_surgery.pdf)
 
 ## Podcasts and Multimedia
 
-{{% resource_link "5da3e152-f341-4e6c-b284-122bf8ee0f79" "Globeshakers" %}}
+[Globeshakers](https://ssir.org/podcasts/category/globeshakers_interviews#)
 
-{{% resource_link "c6fb0636-4908-47ae-a991-b3c09d9602c2" "UNICEF Podcast" %}}
+[UNICEF Podcast](http://www.unicef.org/videoaudio/video_podcast.html)
 
-{{% resource_link "4904e116-97ec-4008-b93c-63748e62e0de" "3Four50" %}}
+[3Four50](https://www.health24.com/Medical/Heart/Foods-diet-and-your-heart/3FOUR50-20120721)
 
-{{% resource_link "269702a3-5ad0-4b77-9e61-727201593e09" "TED Talks in Africa" %}}
+[TED Talks in Africa](http://www.ted.com/index.php/themes/africa_the_next_chapter.html)

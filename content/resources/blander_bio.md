@@ -4,6 +4,8 @@ description: Biography of Jeffrey Blander.
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/af230ad8d2264f244d0bf527f2130fd4_blander_bio.pdf
 file_size: 80178
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

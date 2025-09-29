@@ -6,6 +6,8 @@ description: Biography of Jose Gomez-Marquez, co-inventor and founder of Aerovax
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/a726cbe8e45381120682409245452b3f_jose_bio.pdf
 file_size: 80824
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

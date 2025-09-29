@@ -5,6 +5,8 @@ description: Lecture notes on medical device development with guest speaker Trev
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/93d12b8521d53fd53cf1d9d666e910ff_lecture08.pdf
 file_size: 86434
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This syllabus section provides an introduction to the course and in
   on course meeting times, OCW and class web sites, course directors, objectives,
   scope, mission, educational goals, course elements, teaching methods, tutorial,
   grading, and the course calendar.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -18,7 +20,7 @@ Lectures: 1 session / week, 3 hours / session
 OCW and Class Web Sites
 -----------------------
 
-This OCW web site presents selected class materials cleared for open distribution under MIT OpenCourseWare's [Creative Commons](/terms/#cc) license. Other materials related to the subject, including more recent versions of the class, may be found at the {{% resource_link "a8e68ffd-6658-4222-8b68-4961382e3efb" "class web site" %}}.
+This OCW web site presents selected class materials cleared for open distribution under MIT OpenCourseWare's [Creative Commons](/terms/#cc) license. Other materials related to the subject, including more recent versions of the class, may be found at the [class web site](http://www.limsforum.com/courses/designing-and-sustaining-technology-innovation-for-global-health-practice-mit-hst939/).
 
 Course Directors
 ----------------

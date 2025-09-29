@@ -5,6 +5,8 @@ description: Lecture notes on new systems for drug delivery. Also includes discu
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/4281132d7e90013a5248c593a4517293_lecture03.pdf
 file_size: 87730
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
