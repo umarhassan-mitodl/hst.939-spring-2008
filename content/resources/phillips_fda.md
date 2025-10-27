@@ -6,8 +6,6 @@ description: 'Reading assignment: Phillips, R. "Everything You Ever Wanted to Kn
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/854be2b4eb22975996782eddb95e3e61_phillips_fda.pdf
 file_size: 639164
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

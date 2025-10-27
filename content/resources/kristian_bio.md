@@ -5,8 +5,6 @@ description: Biography of Dr. Kristian Olson, Program Leader of Global Health In
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/d9fb593a7c62f317193ca1e1d3fc5fe3_kristian_bio.pdf
 file_size: 80087
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

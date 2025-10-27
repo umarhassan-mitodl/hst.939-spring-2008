@@ -4,11 +4,10 @@ description: New image Upload
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/d30f36c35a7ba5e1a93685cb8005b8c5_hst-939s08-th.jpg
 file_size: 7292
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
-  caption: "A bicycle ambulance produced by the\_[Bicycle Empowerment Network](https://www.benbikes.org.za/)\_\
-    (BEN) Namibia. (Photo courtesy of\_[Aaron Wieler](http://www.flickr.com/photos/aaronwieler/439767144/))."
+  caption: "A bicycle ambulance produced by the\_{{% resource_link \"4fb793c3-18c4-47cc-a89e-5ff3545f6691\"\
+    \ \"Bicycle Empowerment Network\" %}}\_(BEN) Namibia. (Photo courtesy of\_{{%\
+    \ resource_link \"5a7b18e9-ffe9-4153-a702-2b7deea5f8bf\" \"Aaron Wieler\" %}})."
   credit: ''
   image-alt: Photo of a two-wheeled ambulance cart attached to rear of bicycle, carrying
     a reclining patient.

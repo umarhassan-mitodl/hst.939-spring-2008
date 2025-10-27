@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the schedule of lecture topics for the course along
   with information on the lecturers and student-written lecture notes.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -139,7 +137,7 @@ George Whitesides
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to [BAMM Labs](http://bammlabs.com/) (Bio-Acoustic MEMS in Medicine)
+Field trip to {{% resource_link "48f18a97-f180-43ff-bb49-cf0d7dfefc99" "BAMM Labs" %}} (Bio-Acoustic MEMS in Medicine)
 {{< tdclose >}}
 {{< tdopen >}}
 Utkan Demerci

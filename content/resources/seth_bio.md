@@ -4,8 +4,6 @@ description: Biography of Seth Berkley, President and Chief Executive Officer, I
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/8e3c3f9f6be11d6852f8d47abd4c47e2_seth_bio.pdf
 file_size: 80239
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

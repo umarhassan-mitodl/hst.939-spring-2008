@@ -4,8 +4,6 @@ description: Case study on public private partnerships for health.
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/a9cab6e1b449c20f3ca7eda31a6ee28f_publicprivate.pdf
 file_size: 336906
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

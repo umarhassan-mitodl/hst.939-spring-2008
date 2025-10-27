@@ -5,8 +5,6 @@ description: Lecture notes on venture philanthropy and "elevator pitches" with g
 file: /courses/hst-939-designing-and-sustaining-technology-innovation-for-global-health-practice-spring-2008/f0124b6fd5b558b0db122da57f1d036f_lecture13.pdf
 file_size: 87680
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
